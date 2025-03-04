@@ -1,8 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://cooltv4u.xyz/misc/logos/320/7994.jpg" group-title="Pak Entertainment",ICC
-https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rkyxparx1t/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd?|drmScheme=clearkey&drmLicense=494c5ddd4a2b9c38da05e053c0fd6d3f:ad1ff8c72fc6fefbce716609da9347cf
-
+https://cdna.embedxt.site/hls/index720p.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
