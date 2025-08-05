@@ -1,10 +1,7 @@
 {
-  "keys": [
-    {
       "kty": "oct",
       "alg": "A128KW",
       "kid": "hUQx5qNrqP84j1pdQBtFDA",
       "k": "qICXlFZ75H_lSlmhk0v1nA"
     }
-  ]
-}
+  
